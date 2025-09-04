@@ -1,4 +1,4 @@
-package clase_2;
+package proyecto_1;
 
 public class problema_2 {
 	public static void main(String[] args) {

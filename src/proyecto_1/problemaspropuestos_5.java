@@ -1,4 +1,4 @@
-package clase_2;
+package proyecto_1;
 import java.util.Scanner;
 public class problemaspropuestos_5 {
 	public static void main(String[] args) {
